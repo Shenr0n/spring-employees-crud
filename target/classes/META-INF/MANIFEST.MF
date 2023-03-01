@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Built-By: xenon
+Build-Jdk: 17.0.5
+Implementation-Title: thymeleafdemo-employees-crud-security-with-jdbc-au
+ thentication
+Implementation-Version: 1.0.0
+Implementation-Vendor-Id: com.shenron.springboot
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/thymeleafdemo-employees-crud-security-with-jdbc-authent
+ ication
+Created-By: Maven Integration for Eclipse
+
